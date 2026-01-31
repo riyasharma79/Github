@@ -1,3 +1,3 @@
 # Github
 This is my first Git Repository
-Author - Riya
+Author - Riya Sharma
